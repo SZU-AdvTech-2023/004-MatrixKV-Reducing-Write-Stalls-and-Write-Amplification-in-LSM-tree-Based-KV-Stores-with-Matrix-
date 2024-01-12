@@ -1,0 +1,7 @@
+@inproceedings{REPO004,
+    author = "Yao, Ting and Zhang, Yiwen and Wan, Jiguang and Cui, Qiu and Tang, Liu and Jiang, Hong and Xie, Changsheng and He, Xubin",
+    booktitle = "2020 USENIX Annual Technical Conference (USENIX ATC 20)",
+    pages = "17--31",
+    title = "{$\{$MatrixKV$\}$: Reducing Write Stalls and Write Amplification in $\{$LSM-tree$\}$ Based $\{$KV$\}$ Stores with Matrix Container in $\{$NVM$\}$}",
+    year = "2020"
+}
